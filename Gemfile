@@ -6,7 +6,7 @@ gem 'will_paginate', '~> 3.0'
 gem 'jammit'
 gem 'pg'
 gem 'dotenv-rails', '~> 2.0.1'
-gem 'puma', '3.12.6'
+gem 'puma', '4.3.8'
 gem 'test-unit'
 gem 'lograge', '~> 0.3.5'
 
